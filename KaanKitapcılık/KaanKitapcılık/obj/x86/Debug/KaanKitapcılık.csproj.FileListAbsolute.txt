@@ -1,0 +1,8 @@
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\bin\Debug\KaanKitapcılık.exe
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\bin\Debug\KaanKitapcılık.pdb
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\obj\x86\Debug\KaanKitapcılık.Form1.resources
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\obj\x86\Debug\KaanKitapcılık.Properties.Resources.resources
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\obj\x86\Debug\KaanKitapcılık.csproj.GenerateResource.Cache
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\obj\x86\Debug\KaanKitapcılık.exe
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\obj\x86\Debug\KaanKitapcılık.pdb
+C:\Users\lab3_ogrenci1\Documents\Visual Studio 2010\Projects\KaanKitapcılık\KaanKitapcılık\obj\x86\Debug\KaanKitapcılık.csprojResolveAssemblyReference.cache
