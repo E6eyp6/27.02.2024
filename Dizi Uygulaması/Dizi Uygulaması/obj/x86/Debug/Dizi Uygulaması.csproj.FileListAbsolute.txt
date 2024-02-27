@@ -1,0 +1,7 @@
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\Dizi Uygulaması\Dizi Uygulaması\bin\Debug\Dizi Uygulaması.exe
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\Dizi Uygulaması\Dizi Uygulaması\bin\Debug\Dizi Uygulaması.pdb
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\Dizi Uygulaması\Dizi Uygulaması\obj\x86\Debug\Dizi_Uygulaması.Form1.resources
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\Dizi Uygulaması\Dizi Uygulaması\obj\x86\Debug\Dizi_Uygulaması.Properties.Resources.resources
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\Dizi Uygulaması\Dizi Uygulaması\obj\x86\Debug\Dizi Uygulaması.csproj.GenerateResource.Cache
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\Dizi Uygulaması\Dizi Uygulaması\obj\x86\Debug\Dizi Uygulaması.exe
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\Dizi Uygulaması\Dizi Uygulaması\obj\x86\Debug\Dizi Uygulaması.pdb

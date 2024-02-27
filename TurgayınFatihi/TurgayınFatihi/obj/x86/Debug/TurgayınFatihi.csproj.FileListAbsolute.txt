@@ -1,0 +1,7 @@
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\TurgayınFatihi\TurgayınFatihi\obj\x86\Debug\TurgayınFatihi.Form1.resources
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\TurgayınFatihi\TurgayınFatihi\obj\x86\Debug\TurgayınFatihi.Properties.Resources.resources
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\TurgayınFatihi\TurgayınFatihi\obj\x86\Debug\TurgayınFatihi.csproj.GenerateResource.Cache
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\TurgayınFatihi\TurgayınFatihi\bin\Debug\TurgayınFatihi.exe
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\TurgayınFatihi\TurgayınFatihi\bin\Debug\TurgayınFatihi.pdb
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\TurgayınFatihi\TurgayınFatihi\obj\x86\Debug\TurgayınFatihi.exe
+c:\users\lab3_ogrenci1\documents\visual studio 2010\Projects\TurgayınFatihi\TurgayınFatihi\obj\x86\Debug\TurgayınFatihi.pdb
